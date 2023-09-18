@@ -1630,3 +1630,9 @@ b {
   align-items: center;
   color: gray;
 }
+#headover {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: gray;
+}
